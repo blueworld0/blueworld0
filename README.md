@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![GitHub](https://img.shields.io/badge/GitHub-Dmath-blue)](https://github.com/blueworld3/Dmath)
+[![GitHub](https://img.shields.io/badge/GitHub-Dmath-blue)](https://github.com/blueworld0/Dmath)
 
 <!--
 **blueworld0/blueworld0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
