@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-https://img.shields.io/badge/github%2C%20repo%2C%20blue
+![GitHub](https://img.shields.io/badge/github-repo-blue)
 
 <!--
 **blueworld0/blueworld0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
